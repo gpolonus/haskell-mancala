@@ -1,0 +1,9 @@
+
+# exclude files with no extensions, eg compiled files
+*
+!/**/
+!*.*
+
+# other files that are part of compilation
+*.o
+*.hi
