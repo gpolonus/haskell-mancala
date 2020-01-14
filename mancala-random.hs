@@ -9,6 +9,7 @@ import Text.Read (readMaybe)
 -- better rendering of the board
 -- organizing the code into separate files and modules
 -- create a Board functor/monad?
+-- THE COMPUTER CAN PUT IN ZEROS
 
 -- Later ToDos:
 -- make the CPU smart
